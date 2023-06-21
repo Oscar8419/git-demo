@@ -1,4 +1,8 @@
 hello git another branch
 this is a test for creating a txt document in git
+<<<<<<< HEAD
 add  the line   master test
+=======
+add  the line   hot-fix test
+>>>>>>> hot-fix
 1
