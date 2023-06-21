@@ -1,4 +1,4 @@
 hello git another branch
 this is a test for creating a txt document in git
-add  the line
+add  the line   master test
 1
